@@ -1,0 +1,3 @@
+[submodule "kicad_misc"]
+	path = kicad_misc
+	url = https://github.com/fishpepper/kicad_misc
