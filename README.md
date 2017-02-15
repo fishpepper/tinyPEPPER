@@ -4,7 +4,7 @@ My approach to build a small and lightweight ESC.
 
 See [http://fishpepper.de/projects/tinyPEPPER](http://fishpepper.de/projects/tinyPEPPER) for more details.
 
-![tinyPEPPER image](http://fishpepper.de/wp-content/uploads/2017/02/tinyPEPPER_v03-300x200.jpg)
+![tinyPEPPER image](http://fishpepper.de/wp-content/uploads/2017/02/tinyPEPPER_v03-300x279.jpg)
 
 This thing is TINY! The outer dimensions are 20x20mm with a 16mm hole-to-hole spacing.
 It runs BLHELI_S 
